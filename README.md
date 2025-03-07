@@ -23,13 +23,7 @@
 
 ## Description
 
-Mapped Types module for [Nest](https://github.com/nestjs/nest) used by the `@nestjs/graphql` and `@nestjs/swagger` packages.
-
-## Installation
-
-```bash
-$ npm i --save @nestjs/mapped-types
-```
+Mapped Types module fork for [Nest](https://github.com/nestjs/nest). Removes dependency to @nestjs/common and makes the package usable on the browser side.
 
 ## Quick Start
 
